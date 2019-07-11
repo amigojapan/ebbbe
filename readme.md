@@ -1,3 +1,5 @@
+this port will take me a while to complete...
+
 # 8-Bit Breadboard Emulator for python3#
 
 Copyright 2017 Al Brown modified by amigojapan
@@ -15,11 +17,7 @@ This software requires [Python 2.7.x](https://www.python.org/)which is installed
 
 Once Python is setup run the following command:
 
-`pip install -U ebbbe`
-
-This command can also be used to update the software to the latest version.
-
-The source code is available on [GitHub](https://github.com/EarToEarOak/ebbbe).
+`pip3 install pillow`
 
 ## Usage ##
 At a command prompt run:
